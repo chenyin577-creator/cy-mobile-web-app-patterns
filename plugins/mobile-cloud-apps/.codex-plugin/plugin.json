@@ -1,0 +1,11 @@
+{
+  "name": "mobile-cloud-apps",
+  "version": "1.0.2",
+  "description": "CY 的手机网页版 APP 开发方法，涵盖多设备登录、已有云数据库、同步与版本更新。",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "CY 手机网页版 APP 常用开发模式",
+    "shortDescription": "多手机账号登录、云数据同步与保留旧记录的版本升级",
+    "category": "Developer Tools"
+  }
+}
